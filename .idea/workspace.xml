@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="130dee0f-0311-45a4-acab-456406ed1cc7" name="Changes" comment="" />
+    <list default="true" id="130dee0f-0311-45a4-acab-456406ed1cc7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LambdaExpression/UsingfunctionalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserdefinedObject/HashSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserdefinedObject/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builtinobjects/HashSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builtinobjects/LinkedHashSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builtinobjects/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builtinobjects/TreeMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builtinobjects/TreeSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builtinobjects/map/ConcurrentHashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builtinobjects/map/HashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builtinobjects/map/HashTableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builtinobjects/map/LinkedHashMapDemp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
