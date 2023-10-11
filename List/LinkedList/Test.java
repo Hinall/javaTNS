@@ -9,6 +9,17 @@ public class Test {
         ll.add("one");
         ll.add("two");
         ll.add("three");
+        ll.add("three");
+        ll.add("three");
+        ll.add("four");
+        ll.add("five");
+        ll.add("five");
+        ll.add("five");
+        ll.add("five");
+        ll.remove(2);
+        ll.removeFirstOccurrence("three");
+        ll.removeLastOccurrence("five");
+
 
         Iterator itr=ll.iterator();
         while(itr.hasNext()){

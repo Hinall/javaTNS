@@ -1,4 +1,4 @@
-package TNSjava.Exception.nestedTryCatch;
+package TNSjava.Exception;
 public class Nestedtrycatch{
     public static void check() {
         String s1="TNS";

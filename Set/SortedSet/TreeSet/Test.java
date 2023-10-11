@@ -13,5 +13,20 @@ public class Test {
         while(itr.hasNext()){
             System.out.println(itr.next());
         }
+        System.out.println(ts.contains("one"));
+        System.out.println(ts.first());
+        System.out.println(ts.last());
+        System.out.println("fgdrg"+ts.higher("one"));
+        System.out.println("fgdrg"+ts.lower("one"));
+        System.out.println("fgdrg"+ts.higher("two"));
+        System.out.println("fgdrg"+ts.lower("two"));
+        System.out.println("fgdrg"+ts.higher("three"));
+        System.out.println("fgdrg"+ts.lower("three"));
+        ts.pollFirst();
+        System.out.println(ts);
+
+
+
+
     }
 }
